@@ -22,7 +22,7 @@ student@ubuntu:~/ascii-art$ ./classic "Classic"
 
 ## Options
 
-There are currently five different options  for /ascii-art : *Classic*, *Fs*, *Color*, *Output* and *Justify*. Feel free to try them out!
+There are currently five different options  for /ascii-art : *Classic*, *Fs*, *Color*, *Output* and *Justify*. Feel free to try them out! There are also four different fonts you can use : *Standard*, *Shadow*, *Thinkertoy* and *DOOM*.
 
 ### Classic
 
