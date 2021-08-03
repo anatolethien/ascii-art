@@ -1,6 +1,6 @@
 package ascii
 
-func Ascii(args []string, banner string) {
+func Ascii(args []string, banner string) string {
 	var output = ""
 	for _, str := range args {
 		for i := 0; i < 8; i++ {
