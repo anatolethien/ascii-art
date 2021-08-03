@@ -1,8 +1,6 @@
 package ascii
 
 func Ascii(args []string, banner string) {
-	var args = GetArgs()
-	var banner = "standard"
 	var output = ""
 	for _, str := range args {
 		for i := 0; i < 8; i++ {

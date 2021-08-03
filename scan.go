@@ -2,6 +2,7 @@ package ascii
 
 import (
 	"bufio"
+	"fmt"
 	"log"
 	"os"
 )
