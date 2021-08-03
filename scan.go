@@ -8,7 +8,7 @@ import (
 )
 
 func GetFile(banner string) *os.File {
-	var file, err = os.Open(fmt.Sprintf("./%s.txt", banner))
+	var file, err = os.Open(fmt.Sprintf("./assets/%s.txt", banner))
 	if err != nil {
 		log.Fatal(err)
 	}
